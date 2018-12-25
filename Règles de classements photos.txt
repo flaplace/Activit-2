@@ -1,0 +1,15 @@
+Doublons uniquement :
+- des photos triées et retouchées (Dossiers 2 et 3, pour les appareils photos uniquement)
+- avec d'autres gens
+- sur le cloud 
+
+Règles de classement : 
+- 0. Dossiers non triés
+- 1. Photos brutes sorties de la carte SD
+- 2. Photos triées (càd sans les photos inutiles) à retoucher ou retrier encore
+	2.1 NX et autres appareils photos
+	2.2 Téléphones
+- 3. Photos selectionnées - (photos de qualité)
+	3.1. Tri + tirage finaux appareils
+	3.2. Tri + tirage finaux téléphone
+- 4. Publication sur Px500, seulement 20% des photos de 3.1
